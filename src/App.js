@@ -51,6 +51,15 @@ function App() {
     "../photos/38.gif",
     "../photos/39.jpeg",
     "../photos/40.jpeg",
+    "../photos/41.jpeg",
+    "../photos/42.jpeg",
+    "../photos/43.jpeg",
+    "../photos/44.jpeg",
+    "../photos/45.jpeg",
+    "../photos/46.jpeg",
+    "../photos/47.jpeg",
+    "../photos/48.jpeg",
+    "../photos/49.png",
   ];
 
   const handPostEffect = () => {
